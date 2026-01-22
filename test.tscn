@@ -1,6 +1,0 @@
-[gd_scene format=3 uid="uid://b5g8yultqrxru"]
-
-[node name="Node3D" type="Node3D"]
-
-[node name="CSGMesh3D" type="CSGMesh3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 0.6682741, -0.74391514, 0, 0.74391514, 0.6682741, 0, 2.2112143, 0)
