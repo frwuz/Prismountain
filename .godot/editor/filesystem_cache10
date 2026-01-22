@@ -1,5 +1,12 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1769112113
-::res://assets/::1769112092
-::res://scenens/::0
-::res://scripts/::0
+::res://::1769114830
+::res://assets/::1769112448
+::res://assets/fonts/::1769112158
+::res://assets/music/::1769112167
+::res://assets/shaders/::1769112448
+::res://assets/sounds/::1769112172
+::res://assets/sprites/::1769112178
+::res://scenes/::1769114402
+character.tscn::PackedScene::7993412507063593126::1769114402::0::1::::<><><>0<>0<><>::
+game.tscn::PackedScene::6876116972426118153::1769114402::0::1::::<><><>0<>0<><>::
+::res://scripts/::1769112126
