@@ -1,6 +1,9 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1769084179
-character_body_2d.gd::GDScript::7239242434825974848::1769084110::0::1::::<>CharacterBody2D<><>0<>0<><>::
-icon.svg::CompressedTexture2D::347807963058737005::1769084110::1769084183::1::::<><><>0<>0<>d730624959676aa313aea90b60377d17<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-main.tscn::PackedScene::2771916597773118359::1769084110::0::1::::<><><>0<>0<><>::uid://dbe0jau2d6tky::::res://character_body_2d.gd
-README.md::TextFile::-1::1769084110::0::1::::<><><>0<>0<><>::
+::res://::1770202154
+node_3d.tscn::PackedScene::7617329615243635635::1769154462::0::1::::<><><>0<>0<><>::uid://bao3seexoc7vp::::res://scenes/player.tscn
+::res://assets/::1769154854
+Tree-Transparent.png::CompressedTexture2D::8181055982030698227::1769154849::1769154854::0::::<><><>0<>0<>43d451599db4e632e666539bd29c906d<>::
+::res://scenes/::1769161964
+player.tscn::PackedScene::2417054409674145065::1769161964::0::1::::<><><>0<>0<><>::uid://c1o5thh4s42hq::::res://scripts/player.gd
+::res://scripts/::1769153083
+player.gd::GDScript::6628508410219002450::1769153083::0::1::::<>CharacterBody3D<><>0<>0<><>::
